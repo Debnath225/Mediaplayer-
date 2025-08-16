@@ -1,6 +1,12 @@
 {
   "songs": [
   {
+    "title":"kishori (From Khabona)",
+    "artist":"Shaan",
+    "audioSrc":"https://a10.gaanacdn.com/gn_img/subscription/premium_bite_1_1668772114.mp3",
+    "imageSrc":"https://a10.gaanacdn.com/images/albums/59/1668772114_59.jpg"
+  }
+  ,{
     "title": "The Open Goldberg Variations (J. S. Bach)",
     "artist": "Kimiko Ishizaka",
     "audioSrc": "https://archive.org/download/open_goldberg_variations/open_goldberg_variations.mp3",
