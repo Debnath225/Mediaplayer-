@@ -1,6 +1,30 @@
 {
   "songs": [
-      {
+  {
+    "title": "Bhairobi",
+    "artist": "Traditional (Babu Aghore Nath Chakrabarty)",
+    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/.../Bhairobi_(song).ogg",
+    "imageSrc": ""
+  },
+  {
+    "title": "Sindhu",
+    "artist": "Traditional (Babu Dejendra Nath Banerjee)",
+    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/.../Sindhu_(song).ogg",
+    "imageSrc": ""
+  },
+  {
+    "title": "Amar Sonar Bangla (Vocal)",
+    "artist": "Bangladesh Government (Public Domain)",
+    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/.../Amar_Sonar_Bangla_-_official_vocal_music_of_the_National_anthem_of_Bangladesh.ogg",
+    "imageSrc": ""
+  },
+  {
+    "title": "Banshi",
+    "artist": "Rabindranath Tagore (LibriVox Reading)",
+    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/.../বাঁশি_-_রবীন্দ্রনাথ_ঠাকুর.oga",
+    "imageSrc": ""
+  },
+  {
     "title": "Purano Sei Diner Kotha (Pt. 2)",
     "artist": "Paroma Banerjee",
     "audioSrc": "https://audiomack.com/rabindranathtagore/song/purano-sei-diner-kotha-pt-2",
