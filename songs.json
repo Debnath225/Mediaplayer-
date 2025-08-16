@@ -1,5 +1,29 @@
 {
   "songs": [
+  {
+    "title": "Ami Shunechi Shedin Tumi",
+    "artist": "Moushumi Bhoumik",
+    "audioSrc": "https://archive.org/download/AmiShunechiShedinTumiMoushumiBhoumik/AmiShunechiShedinTumiMoushumiBhoumik.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bengali_Music.jpg/320px-Bengali_Music.jpg"
+  },
+  {
+    "title": "Amar Sonar Bangla (Instrumental)",
+    "artist": "Rabindranath Tagore",
+    "audioSrc": "https://archive.org/download/AmarSonarBanglaInstrumental/AmarSonarBanglaInstrumental.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tagore_1909.jpg/320px-Tagore_1909.jpg"
+  },
+  {
+    "title": "Bande Mataram (Old Recording)",
+    "artist": "Bankim Chandra Chattopadhyay",
+    "audioSrc": "https://archive.org/download/BandeMataramOld/BandeMataramOld.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Anandamath_Bankimchandra.jpg/320px-Anandamath_Bankimchandra.jpg"
+  },
+  {
+    "title": "Purano Sei Diner Kotha",
+    "artist": "Rabindranath Tagore",
+    "audioSrc": "https://archive.org/download/PuranoSeiDinerKotha/PuranoSeiDinerKotha.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rabindranath_Tagore_in_1909.jpg/320px-Rabindranath_Tagore_in_1909.jpg"
+  }, 
     {
     "title": "Kato Pashan Bandhichhen",
     "artist": "Arundhati Holme Choudhury",
