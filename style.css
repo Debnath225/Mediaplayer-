@@ -193,7 +193,7 @@ h1 {
 /* Playlist Styles */
 .playlist-container {
   flex-basis: 300px;
-  background: var(--glass-background);
+  background: linear-gradient(-211deg, #7c7070, #977c7c30);;
   backdrop-filter: blur(20px);
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.2);
