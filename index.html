@@ -1,67 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Surodhwani - Bengali Music Player</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNqTw7hBZzgMfeUaPT-0k0x2RVb5qnytVLQ&s" type="image/x-icon">
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="icon"
+      href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNqTw7hBZzgMfeUaPT-0k0x2RVb5qnytVLQ&s"
+      type="image/x-icon"
+    />
     <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-</head>
-<body>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"
+    />
+  </head>
+  <body>
     <div class="player-container">
-        <!-- Main Player UI -->
-        <div class="music-player">
-            <h1>Surodhwani</h1>
-            
-            <div class="album-art-container">
-                <img src="default-art.png" alt="Album Art" id="album-art">
-            </div>
+      <!-- Main Player UI -->
+      <div class="music-player">
+        <h1>Surodhwani</h1>
 
-            <div class="track-info">
-                <h2 id="song-title">Select a song</h2>
-                <p id="song-artist">to begin</p>
-            </div>
-
-            <!-- Progress Bar -->
-            <div class="progress-container" id="progress-container">
-                <div class="progress" id="progress"></div>
-                <div class="duration-wrapper">
-                    <span id="current-time">0:00</span>
-                    <span id="duration">0:00</span>
-                </div>
-            </div>
-
-            <!-- Audio Element -->
-            <audio id="audio" src=""></audio>
-
-            <!-- Controls -->
-            <div class="controls-container">
-                <div class="main-controls">
-                    <button id="prev" class="control-btn"><i class="fas fa-backward"></i></button>
-                    <button id="play" class="control-btn play-btn"><i class="fas fa-play"></i></button>
-                    <button id="next" class="control-btn"><i class="fas fa-forward"></i></button>
-                </div>
-
-                <div class="extra-controls">
-                    <button id="loop" class="control-btn-small" title="Loop"><i class="fas fa-retweet"></i></button>
-                    <div class="speed-control">
-                        <button id="speed" class="control-btn-small" title="Playback Speed">1x</button>
-                    </div>
-                </div>
-            </div>
+        <div class="album-art-container">
+          <img src="default-art.png" alt="Album Art" id="album-art" />
         </div>
 
-        <!-- Playlist UI -->
-        <div class="playlist-container">
-            <h2>Playlist</h2>
-            <ul id="playlist" class="playlist">
-                <!-- Songs will be injected here by JavaScript -->
-            </ul>
+        <div class="track-info">
+          <h2 id="song-title">Select a song</h2>
+          <p id="song-artist">to begin</p>
         </div>
+
+        <!-- Progress Bar -->
+        <div class="progress-container" id="progress-container">
+          <div class="progress" id="progress"></div>
+          <div class="duration-wrapper">
+            <span id="current-time">0:00</span>
+            <span id="duration">0:00</span>
+          </div>
+        </div>
+
+        <!-- Audio Element -->
+        <audio id="audio" src="" type="audio"></audio>
+
+        <!-- Controls -->
+        <div class="controls-container">
+          <div class="main-controls">
+            <button id="prev" class="control-btn">
+              <i class="fas fa-backward"></i>
+            </button>
+            <button id="play" class="control-btn play-btn">
+              <i class="fas fa-play"></i>
+            </button>
+            <button id="next" class="control-btn">
+              <i class="fas fa-forward"></i>
+            </button>
+          </div>
+
+          <div class="extra-controls">
+            <button id="loop" class="control-btn-small" title="Loop">
+              <i class="fas fa-retweet"></i>
+            </button>
+            <div class="speed-control">
+              <button
+                id="speed"
+                class="control-btn-small"
+                title="Playback Speed"
+              >
+                1x
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Playlist UI -->
+      <div class="playlist-container">
+        <h2>Playlist</h2>
+        <ul id="playlist" class="playlist">
+          <!-- Songs will be injected here by JavaScript -->
+        </ul>
+      </div>
     </div>
-    
+
     <script src="script.js"></script>
-</body>
+  </body>
 </html>
