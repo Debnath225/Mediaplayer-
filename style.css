@@ -5,7 +5,7 @@
   --background-gradient-body :  linear-gradient(117deg,#db6f28,#318592);
   --background-gradient: linear-gradient(135deg, #2c292d, #000000);
   --glass-background: rgba(255, 255, 255, 0.1);
-  --semi-glass-background: rgba(255, 255, 255, 0.23);
+  --semi-glass-background: rgba(255, 255, 255, 0.17);
   --text-color: #f0f0f0;
   --text-secondary: #b3b3b3;
   --shadow-color: rgba(0, 0, 0, 0.2);
@@ -43,7 +43,7 @@ body {
   flex: 1;
   background: var(--glass-background);
   backdrop-filter: blur(20px);
-  border-radius: 20px;
+  border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   box-shadow: 0 8px 32px 0 var(--shadow-color);
   padding: 30px;
