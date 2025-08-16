@@ -217,3 +217,19 @@ document.addEventListener("DOMContentLoaded", () => {
   // Initial Load
   getSongs();
 });
+document.addEventListener("keydown", (e) => {
+  const key = e.key.toLowerCase();
+  if (key === " ") {
+    e.preventDefault(); // Prevent spacebar from scrolling the page
+    const playButton = document.getElementById("play");
+    playButton.click(); // Trigger play/pause
+  } else if (key === "arrowleft") {
+    document.getElementById("prev").click(); // Previous song
+  } else if (key === "arrowright") {
+    document.getElementById("next").click(); // Next song
+  } else if (key === "l") {
+    document.getElementById("loop").click(); // Toggle loop
+  } else if (key === "s") {
+    document.getElementById("speed").click(); // Change speed
+  }
+});
