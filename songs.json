@@ -1,6 +1,66 @@
 {
   "songs": [
-    {
+  {
+    "title": "The Open Goldberg Variations (J. S. Bach)",
+    "artist": "Kimiko Ishizaka",
+    "audioSrc": "https://archive.org/download/open_goldberg_variations/open_goldberg_variations.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/86/J.S._Bach.jpg"
+  },
+  {
+    "title": "April Showers",
+    "artist": "Al Jolson (public domain recording)",
+    "audioSrc": "https://archive.org/download/AprilShowers/AprilShowers.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Al_Jolson.jpg"
+  },
+  {
+    "title": "Hot Lips",
+    "artist": "Paul Whiteman (public domain)",
+    "audioSrc": "https://archive.org/download/HotLips/HotLips.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Paul_Whiteman.jpg"
+  },
+  {
+    "title": "Fido is a Hot Dog Now",
+    "artist": "Billy Murray (public domain)",
+    "audioSrc": "https://archive.org/download/FidoIsAHotDogNow/FidoIsAHotDogNow.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Billy_Murray_singer.jpg"
+  },
+  {
+    "title": "Royalty Free Loops Pack (CC0)",
+    "artist": "Various (CC0)",
+    "audioSrc": "https://example.com/royalty_free_loops_pack.wav",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Musical_Notes.jpg"
+  },
+  {
+    "title": "Free Royalty Free Music Collection",
+    "artist": "Daniel Iván",
+    "audioSrc": "https://archive.org/download/DanielIvanFreeRoyaltyMusic/daniel_ivan_track1.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Music_Sheet.jpg"
+  },
+  {
+    "title": "Classical - Public Domain Track",
+    "artist": "Musopen Collection",
+    "audioSrc": "https://musopen.org/static/audio/Beethoven_Symphony5.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg"
+  },
+  {
+    "title": "CC0 Sound Effect (Field Recording)",
+    "artist": "Freesound User (CC0)",
+    "audioSrc": "https://freesound.org/data/previews/xx/xx/xx.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sound_wave.jpg"
+  },
+  {
+    "title": "Mutopia Project MIDI Piece",
+    "artist": "Public Domain Composer",
+    "audioSrc": "http://www.mutopiaproject.org/media/mid/xxx.mid",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Midi_Keyboard.jpg"
+  },
+  {
+    "title": "FreePD Modern Public Domain Track",
+    "artist": "Kevin MacLeod (FreePD)",
+    "audioSrc": "https://freepd.com/music/XXX.mp3",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/Kevin_MacLeod.jpg"
+  },
+  {
       "title": "Amar Sonar Bangla",
       "artist": "Rabindranath Tagore",
       "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/4/45/Amar_Sonar_Bangla_-_Instrumental.ogg",
