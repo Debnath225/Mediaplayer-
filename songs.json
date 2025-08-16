@@ -1,0 +1,46 @@
+{
+  "songs": [
+    {
+      "title": "Amar Sonar Bangla",
+      "artist": "Rabindranath Tagore",
+      "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/4/45/Amar_Sonar_Bangla_-_Instrumental.ogg",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Coat_of_arms_of_Bangladesh.svg/500px-Coat_of_arms_of_Bangladesh.svg.png"
+    },
+    {
+      "title": "Dhana Dhanya Pushpa Bhara",
+      "artist": "Dwijendralal Ray",
+      "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Dhana_Dhanya_Pushpa_Bhara.ogg",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dwijendralal_Ray_signature.svg/512px-Dwijendralal_Ray_signature.svg.png"
+    },
+    {
+      "title": "Ebar Tor Mora Gange",
+      "artist": "Rabindranath Tagore",
+      "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ebar_Tor_Mora_Gange_-_Rabindranath_Tagore.ogg",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rabindranath_Tagore_in_1909.jpg/440px-Rabindranath_Tagore_in_1909.jpg"
+    },
+    {
+      "title": "Gram Chara Oi Ranga Matir Poth",
+      "artist": "Rabindrasangeet",
+      "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1d/Gram_Chhara_Oi_Ranga_Matir_Path_by_a_Bengali_Baul_-_International_Mother_Language_Day_2014_at_Dhaka.webm/Gram_Chhara_Oi_Ranga_Matir_Path_by_a_Bengali_Baul_-_International_Mother_Language_Day_2014_at_Dhaka.webm.ogg",
+      "imageSrc": ""
+    },
+    {
+      "title": "Momo Chitte Niti Nritye",
+      "artist": "Rabindrasangeet",
+      "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mamo_Chitte_Niti_Nritye_Ke_Je_Nache_By_Sadi_Mohammad.ogg",
+      "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Statue_of_Rabindranath_Tagore%2C_Ramna_Park%2C_Dhaka_%282019-01-05%29.jpg/440px-Statue_of_Rabindranath_Tagore%2C_Ramna_Park%2C_Dhaka_%282019-01-05%29.jpg"
+    },
+    {
+      "title": "Purano Sei Diner Kotha",
+      "artist": "Rabindranath Tagore",
+      "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/3/30/Purano_Sei_Diner_Katha_-_Rabindranath_Tagore.ogg",
+      "imageSrc": ""
+    },
+    {
+        "title": "Jodi Tor Dak Shune Keu",
+        "artist": "Rabindrasangeet",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jodi_Tor_Dak_Shune_Keu_Na_Ase_Tobe_Ekla_Cholo_Re_-_Rabindranath_Tagore.ogg",
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rabindranath_Tagore_at_the_Shanghai_Joss_House%2C_1924.jpg/440px-Rabindranath_Tagore_at_the_Shanghai_Joss_House%2C_1924.jpg"
+    }
+  ]
+}
