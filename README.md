@@ -56,7 +56,7 @@ README.md       # This file
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/2QZb6wB.png" alt="Surodhwani Screenshot" width="600" />
+  <img src="Screenshot .png" alt="Surodhwani Screenshot" width="600" />
 </p>
 
 ---
