@@ -1,5 +1,35 @@
 {
   "songs": [
+    {
+    "title": "Kato Pashan Bandhichhen",
+    "artist": "Arundhati Holme Choudhury",
+    "audioSrc": "https://archive.org/download/ecsd-2520-b/Arundhati%20Holme%20Choudhury%20-%20Kato%20Pashan%20Bandhichhen.mp3",
+    "imageSrc": ""
+  },
+  {
+    "title": "Ami Rajanoi",
+    "artist": "Unknown (Old Bangla Songs Collection)",
+    "audioSrc": "https://archive.org/download/oldbanglasongs/AAA%20Ami%20Rajanoi.mp3",
+    "imageSrc": ""
+  },
+  {
+    "title": "Amar Pujar Phool",
+    "artist": "Kishore Kumar",
+    "audioSrc": "https://archive.org/download/a-1_20220723/A1%20-%20Amar%20Pujar%20Phool.mp3",
+    "imageSrc": ""
+  },
+  {
+    "title": "Amar Tumi Achho",
+    "artist": "Various (Bengali Old Songs_Antasari)",
+    "audioSrc": "https://archive.org/download/amarporanjahachay/AMAR%20TUMI%20ACHHO.mp3",
+    "imageSrc": ""
+  },
+  {
+    "title": "Purano Sei Diner Kotha",
+    "artist": "Various (Bangla old songs Remix)",
+    "audioSrc": "https://archive.org/download/BanglaOldSongsRemix/Purano%20Sei%20Diner%20Kotha.mp3",
+    "imageSrc": ""
+  },
   {
     "title": "Bhairobi",
     "artist": "Traditional (Babu Aghore Nath Chakrabarty)",
