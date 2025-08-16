@@ -1,6 +1,12 @@
 {
   "songs": [ 
-    {
+{
+    "title": "Dugga Eseche Ghore-(Mr-Jat.in)",
+    "artist": "Unknown",
+    "audioSrc": "songs/Dugga Eseche Ghore-(Mr-Jat.in).mp3",
+    "imageSrc": ""
+},
+{
     "title": "Kato Pashan Bandhichhen",
     "artist": "Arundhati Holme Choudhury",
     "audioSrc": "https://archive.org/download/ecsd-2520-b/Arundhati%20Holme%20Choudhury%20-%20Kato%20Pashan%20Bandhichhen.mp3",
