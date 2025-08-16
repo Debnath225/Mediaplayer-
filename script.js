@@ -23,8 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const playbackSpeeds = [0.5, 0.75, 1, 1.25, 1.5, 2];
   let currentSpeedIndex = 2; // Default 1x
 
-  const DEFAULT_ALBUM_ART =
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAEERJ0NNdpsJFUwVUTHwjTn43cYHMVkR3_g&usqp=CAU"; // A simple default image
+  const DEFAULT_ALBUM_ART = "musicplyearimage.png"; // A simple default image
 
   // --- Core Functions ---
 
