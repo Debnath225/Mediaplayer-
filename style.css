@@ -33,7 +33,7 @@ body {
     width: 100%;
     max-width: 900px;
     height: 600px;
-    max-height: 90vh;
+    max-height: 95vh;
 }
 
 /* Main Music Player Styles */
@@ -59,10 +59,10 @@ h1 {
 }
 
 .album-art-container {
-    width: 250px;
-    height: 250px;
+    width: 280px;
+    height: 280px;
     margin-bottom: 20px;
-    border-radius: 15px;
+    border-radius: 4px;
     overflow: hidden;
     box-shadow: 0 4px 15px var(--shadow-color);
 }
