@@ -96,6 +96,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const { duration, currentTime } = e.srcElement;
     const progressPercent = duration ? (currentTime / duration) * 100 : 0;
     progress.style.width = `${progressPercent}%`;
+    progress.title = `${formatTime(currentTime)}`;
     durationEl.textContent = formatTime(duration);
     currentTimeEl.textContent = formatTime(currentTime);
   }
