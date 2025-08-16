@@ -76,7 +76,7 @@ h1 {
 }
 
 .music-player:hover #album-art {
-  transform: scale(2.005);
+  transform: scale(1.5);
 }
 
 .track-info {
