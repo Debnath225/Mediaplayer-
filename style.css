@@ -2,6 +2,7 @@
 
 :root {
   --primary-color: #ff8c00;
+  --progressbar-color: #8bd5c5;
   --background-gradient-body :  linear-gradient(117deg,#db6f28,#318592);
   --background-gradient: linear-gradient(135deg, #2c292d, #000000);
   --glass-background: rgba(255, 255, 255, 0.1);
@@ -107,7 +108,7 @@ h1 {
 }
 
 .progress {
-  background-color: var(--primary-color);
+  background-color: var(--progressbar-color);
   border-radius: 5px;
   height: 100%;
   width: 0%;
