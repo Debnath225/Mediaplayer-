@@ -2,6 +2,7 @@
 
 :root {
   --primary-color: #ff8c00;
+  --background-gradient-body :  linear-gradient(to left,#db6f28,#318592);
   --background-gradient: linear-gradient(135deg, #2c292d, #000000);
   --glass-background: rgba(255, 255, 255, 0.1);
   --semi-glass-background: rgba(255, 255, 255, 0.23);
@@ -19,7 +20,7 @@
 body {
   font-family: "Hind Siliguri", sans-serif;
   min-height: 100vh;
-  background-image: var(--background-gradient);
+  background-image: var(--background-gradient-body);
   background-attachment: fixed;
   display: flex;
   justify-content: center;
