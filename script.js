@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener("DOMContentLoaded", () => {
   // DOM Elements
   const audio = document.getElementById("audio");
   const albumArt = document.getElementById("album-art");
@@ -47,6 +47,11 @@ document.addEventListener('DOMContentLoaded', () => {
     songTitle.textContent = song.title;
     songArtist.textContent = song.artist;
     audio.src = song.audioSrc;
+    audio.onerror = () => {
+      songTitle.textContent = "Audio file not supported or missing";
+      albumArt.src = DEFAULT_ALBUM_ART;
+      pauseSong();
+    };
     albumArt.src = song.imageSrc || DEFAULT_ALBUM_ART;
     albumArt.onerror = () => {
       albumArt.src = DEFAULT_ALBUM_ART;
