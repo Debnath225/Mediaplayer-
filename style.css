@@ -4,6 +4,7 @@
   --primary-color: #ff8c00;
   --background-gradient: linear-gradient(135deg, #2c292d, #000000);
   --glass-background: rgba(255, 255, 255, 0.1);
+  --semi-glass-background: rgba(255, 255, 255, 0.3);
   --text-color: #f0f0f0;
   --text-secondary: #b3b3b3;
   --shadow-color: rgba(0, 0, 0, 0.2);
@@ -218,12 +219,12 @@ h1 {
   border-radius: 8px;
   cursor: pointer;
   transition: background-color 0.2s ease;
-  background: #00000045;
+  background: #30050545;
   margin-top: 8px;
 }
 
 .playlist-item:hover {
-  background-color: var(--glass-background);
+  background-color: var(--semi-glass-background);
 }
 
 .playlist-item.active {
