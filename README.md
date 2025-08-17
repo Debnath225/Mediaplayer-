@@ -27,7 +27,7 @@
 
 1. **Clone this repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Debnath225/Mediaplayer-.git
    cd Mediaplayer-
    ```
 
