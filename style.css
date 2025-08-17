@@ -17,7 +17,9 @@
   margin: 0;
   padding: 0;
 }
-
+html,body{
+  scroll-behaviour:smooth;
+}
 body {
   font-family: "Hind Siliguri", sans-serif;
   min-height: 100vh;
