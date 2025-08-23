@@ -1,53 +1,98 @@
 {
   "songs": [ 
     {
+    "id": 1,
     "title": "আজ বাজে মন মাঝে  Durga Sohay   দুর্গা সহায় Somchanda",
     "artist": "Unknown",
-    "audioSrc": "songs/SSYouTube.online_Aaj Baaje Video Song আজ বাজে মন মাঝে Durga Sohay দুর্গা সহায় Somchanda Bickram Ghosh_144p.mp3",
+    "audio": "songs/SSYouTube.online_Aaj Baaje Video Song আজ বাজে মন মাঝে Durga Sohay দুর্গা সহায় Somchanda Bickram Ghosh_144p.mp3",
     "imageSrc": ""
     },
-{
+{    "id": 2,
     "title": "Dugga Eseche Ghore-(Mr-Jat.in)",
     "artist": "Unknown",
-    "audioSrc": "songs/Dugga Eseche Ghore-(Mr-Jat.in).mp3",
+    "audio": "songs/Dugga Eseche Ghore-(Mr-Jat.in).mp3",
     "imageSrc": ""
 },
-{
+{   "id": 3,
     "title": "Kato Pashan Bandhichhen",
     "artist": "Arundhati Holme Choudhury",
-    "audioSrc": "https://archive.org/download/ecsd-2520-b/Arundhati%20Holme%20Choudhury%20-%20Kato%20Pashan%20Bandhichhen.mp3",
+    "audio": "https://archive.org/download/ecsd-2520-b/Arundhati%20Holme%20Choudhury%20-%20Kato%20Pashan%20Bandhichhen.mp3",
     "imageSrc": ""
   },
-  {
+  { "id": 4,
     "title": "Ami Rajanoi",
     "artist": "Unknown (Old Bangla Songs Collection)",
-    "audioSrc": "https://archive.org/download/oldbanglasongs/AAA%20Ami%20Rajanoi.mp3",
+    "audio": "https://archive.org/download/oldbanglasongs/AAA%20Ami%20Rajanoi.mp3",
     "imageSrc": ""
   },
-  {
+  { "id": 5,
     "title": "kishori-kishori song",
     "artist": "Unknown ",
-    "audioSrc": "songs/kishori-kishori.mp4",
+    "audio": "songs/kishori-kishori.mp4",
     "imageSrc": ""
   },
-  {
+  { "id": 6,
     "title": "Amar Pujar Phool",
     "artist": "Kishore Kumar",
     "audioSrc": "https://archive.org/download/a-1_20220723/A1%20-%20Amar%20Pujar%20Phool.mp3",
-    "imageSrc": ""
+    "cover": ""
   },
-  {
+  { "id": 7,
     "title": "Amar Tumi Achho",
     "artist": "Various (Bengali Old Songs_Antasari)",
     "audioSrc": "https://archive.org/download/amarporanjahachay/AMAR%20TUMI%20ACHHO.mp3",
-    "imageSrc": ""
+    "cover": ""
   },
-  {
+  { "id": 8,
     "title": "Purano Sei Diner Kotha",
     "artist": "Various (Bangla old songs Remix)",
     "audioSrc": "https://archive.org/download/BanglaOldSongsRemix/Purano%20Sei%20Diner%20Kotha.mp3",
-    "imageSrc": ""
-  }
-
+    "cover": ""
+  },
+    {
+      "id": 9,
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "Divide",
+      "duration": "3:53",
+      "cover": "https://link-to-cover-image.com/shapeofyou.jpg",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "duration": "3:20",
+      "cover": "https://link-to-cover-image.com/blindinglights.jpg",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "album": "21",
+      "duration": "4:45",
+      "cover": "https://link-to-cover-image.com/someonelikeyou.jpg",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "album": "Evolve",
+      "duration": "3:24",
+      "cover": "https://link-to-cover-image.com/believer.jpg",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "duration": "3:23",
+      "cover": "https://link-to-cover-image.com/levitating.jpg",
+      "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+    } , 
   ]
 }
