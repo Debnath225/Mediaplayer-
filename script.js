@@ -45,13 +45,13 @@ document.addEventListener("DOMContentLoaded", () => {
   function loadSong(song) {
     songTitle.textContent = song.title;
     songArtist.textContent = song.artist;
-    audio.src = song.audioSrc;
+    audio.src = song.audio;
     audio.onerror = () => {
       songTitle.textContent = "Audio file not supported or missing";
       albumArt.src = DEFAULT_ALBUM_ART;
       pauseSong();
     };
-    albumArt.src = song.imageSrc || DEFAULT_ALBUM_ART;
+    albumArt.src = song.cover || DEFAULT_ALBUM_ART;
     albumArt.onerror = () => {
       albumArt.src = DEFAULT_ALBUM_ART;
     }; // Fallback if image link is broken
@@ -165,7 +165,7 @@ document.addEventListener("DOMContentLoaded", () => {
       li.classList.add("playlist-item");
       li.dataset.index = index;
       li.innerHTML = `
-                <img src="${song.imageSrc || DEFAULT_ALBUM_ART}" alt="${
+                <img src="${song.cover || DEFAULT_ALBUM_ART}" alt="${
         song.title
       }" class="playlist-item-art" onerror="this.src='${DEFAULT_ALBUM_ART}'">
                 <div class="playlist-info">
