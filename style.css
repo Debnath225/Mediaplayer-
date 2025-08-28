@@ -290,3 +290,8 @@ h1 {
     scale: 1.5;
   }
 }
+@media only screen and(width<=209px){
+    #album-art{
+      scale:0.89;
+    }
+}
