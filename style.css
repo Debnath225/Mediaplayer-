@@ -64,7 +64,7 @@ h1 {
   font-size: 2rem;
   font-weight: 700;
   margin-bottom: 20px;
-  text-shadow: 2px 2px 4px var(--shadow-color);
+  text-shadow: -2px 6px 4px var(--shadow-color);
 }
 
 .album-art-container {
