@@ -294,4 +294,7 @@ h1 {
     #album-art{
       scale:0.89;
     }
+  .album-art-container{
+    width: 100px;
+    height: 100px;
 }
