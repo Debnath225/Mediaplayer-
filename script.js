@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const speedBtn = document.getElementById("speed");
   const playlistEl = document.getElementById("playlist");
 
-  // Player State
+  // Player State 
   let songs = [];
   let currentSongIndex = 0;
   let isPlaying = false;
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const DEFAULT_ALBUM_ART = "musicplyearimage.png"; // A simple default image
 
-  // --- Core Functions ---
+  // --- Main Functions ---
 
   // Fetch songs from JSON
   async function getSongs() {
